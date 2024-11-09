@@ -1,0 +1,1 @@
+The app displays a loading message during the video creation process and redirects to the generated video once ready. The component manages state for the URL input, loading messages, video samples, and the active sample index.

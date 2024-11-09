@@ -1,0 +1,1 @@
+It includes a form for URL submission and a video display area for sample videos.

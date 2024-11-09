@@ -1,0 +1,1 @@
+The `App.tsx` file in the `vidurl-ai` project is a React component that uses Axios for HTTP requests. It fetches video samples from a local server and allows users to input a URL to generate a video using AI.
